@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TuRelojSf</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/style.css">    
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">TuRelojSf <i class="bi bi-watch"></i></h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">TuRelojSf <i class="bi bi-watch"></i></h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="relojesH" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Relojes Hombre</button>
+                    </li>
+                    <li>
+                        <button id="relojesD" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Relojes Damas</button>
+                    </li>
+                    <li>
+                        <button id="estuches" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Estuches</button>
+                    </li>
+                    <li>
+                        <button id="pulseras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Pulseras</button>
+                    </li>
+                    <li>
+                        <button id="perfumesH" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Perfumes Hombre</button>
+                    </li>
+                    <li>
+                        <button id="perfumesD" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Perfumes Damas</button>
+                    </li>
+                    <li>
+                        <button id="billeterasH" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Billeteras Hombre</button>
+                    </li>
+                    <li>
+                        <button id="billeterasD" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Billeteras Damas</button>
+                    </li>
+                    <li>
+                        <button id="gorras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Gorras</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                        <a class="boton-menu" href="comoComprar.html"><i class="bi bi-hand-index-thumb"></i>¿Como Comprar?</a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2024 TuRelojSf</p>
+                <p class="texto-footer">~Bruno Depetris~</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>
