@@ -211,7 +211,7 @@
     },
     
     {
-        "id": "reloj-3",
+        "id": "reloj-3-D",
         "titulo": "Katty",
         "imagen": "./img/relojesD/03.jpeg",
         "descripcion": "Rosa, Malla de Cuero",
@@ -222,7 +222,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-4",
+        "id": "reloj-4-D",
         "titulo": "Flower black",
         "imagen": "./img/relojesD/04.jpeg",
         "descripcion": "Negro F.blanco, Malla de Cuero",
@@ -233,7 +233,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-5",
+        "id": "reloj-5-D",
         "titulo": "Reini",
         "imagen": "./img/relojesD/05.jpeg",
         "descripcion": "Rosa claro, Malla de Cuero",
@@ -244,7 +244,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-6",
+        "id": "reloj-6-D",
         "titulo": "Gyda",
         "imagen": "./img/relojesD/06.jpeg",
         "descripcion": "Blanco, F.Floreado, Malla de Cuero",
@@ -255,7 +255,7 @@
         "precio": 16999
     },    
     {
-        "id": "reloj-8",
+        "id": "reloj-8-D",
         "titulo": "Carol",
         "imagen": "./img/relojesD/08.jpeg",
         "descripcion": "Rojo F.Blanco, Malla de Cuero",
@@ -266,7 +266,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-9",
+        "id": "reloj-9-D",
         "titulo": "Cat",
         "imagen": "./img/relojesD/09.jpeg",
         "descripcion": "Beige, F.gatito, Malla de cuero",
@@ -277,7 +277,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-10",
+        "id": "reloj-10-D",
         "titulo": "Flower",
         "imagen": "./img/relojesD/10.jpeg",
         "descripcion": "Celeste Claro, F.Flor, Malla Cuero Reforzada",
@@ -288,7 +288,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-11",
+        "id": "reloj-11-D",
         "titulo": "Fancy",
         "imagen": "./img/relojesD/11.jpeg",
         "descripcion": "Negro, Malla cuero",
@@ -299,7 +299,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-12",
+        "id": "reloj-12-D",
         "titulo": "Jazz",
         "imagen": "./img/relojesD/12.jpeg",
         "descripcion": "Marron Claro, F.Estrella, Malla de Cuero",
@@ -310,7 +310,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-13",
+        "id": "reloj-13-D",
         "titulo": "Marge",
         "imagen": "./img/relojesD/13.jpeg",
         "descripcion": "F.Blanco, Malla Metalica",
@@ -321,7 +321,7 @@
         "precio": 19999
     },
     {
-        "id": "reloj-14",
+        "id": "reloj-14-D",
         "titulo": "Paris",
         "imagen": "./img/relojesD/14.jpeg",
         "descripcion": "Blanco, Malla de Cuero",
@@ -332,7 +332,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-15",
+        "id": "reloj-15-D",
         "titulo": "Paris",
         "imagen": "./img/relojesD/15.jpeg",
         "descripcion": "Negro, Malla de cuero",
@@ -343,7 +343,7 @@
         "precio": 16999
     },
     {
-        "id": "reloj-16",
+        "id": "reloj-16-D",
         "titulo": "Animal Print",
         "imagen": "./img/relojesD/16.jpeg",
         "descripcion": "Animal print, Malla de silicona",
@@ -642,7 +642,7 @@
         "precio": 7999
     },
     {
-        "id": "perfume-1",
+        "id": "perfume-1-D",
         "titulo": "Good Girl Black",
         "imagen": "./img/perfumesD/01.jpeg",
         "descripcion":"100ml",
@@ -653,7 +653,7 @@
         "precio": 21999
     },
     {
-        "id": "perfume-2",
+        "id": "perfume-2-D",
         "titulo": "La Vie Est Belle",
         "imagen": "./img/perfumesD/02.jpeg",
         "descripcion":"100ml",
@@ -664,7 +664,7 @@
         "precio": 16999
     },
     {
-        "id": "perfume-3",
+        "id": "perfume-3-D",
         "titulo": "Lata Olympea",
         "imagen": "./img/perfumesD/03.jpeg",
         "descripcion":"Perfume de 100ml, + Reloj",
@@ -675,7 +675,7 @@
         "precio": 32999
     },
     {
-        "id": "perfume-4",
+        "id": "perfume-4-D",
         "titulo": "Mom paris",
         "imagen": "./img/perfumesD/04.jpeg",
         "descripcion":"30ml",
@@ -686,7 +686,7 @@
         "precio": 10999
     },
     {
-        "id": "perfume-5",
+        "id": "perfume-5-D",
         "titulo": "Scandal",
         "imagen": "./img/perfumesD/05.jpeg",
         "descripcion":"100ml",
@@ -697,7 +697,7 @@
         "precio": 16999
     },
     {
-        "id": "perfume-6",
+        "id": "perfume-6-D",
         "titulo": "Amor amor Sunrise",
         "imagen": "./img/perfumesD/06.jpeg",
         "descripcion":"100ml",
@@ -708,7 +708,7 @@
         "precio": 16999
     },
     {
-        "id": "perfume-7",
+        "id": "perfume-7-D",
         "titulo": "212 Heroes Vip",
         "imagen": "./img/perfumesD/07.jpeg",
         "descripcion":"100ml",
@@ -719,7 +719,7 @@
         "precio": 24999
     },
     {
-        "id": "perfume-8",
+        "id": "perfume-8-D",
         "titulo": "Good Girl White",
         "imagen": "./img/perfumesD/08.jpeg",
         "descripcion":"100ml",
@@ -730,7 +730,7 @@
         "precio": 21999
     },
     {
-        "id": "perfume-9",
+        "id": "perfume-9-D",
         "titulo": "Jadore",
         "imagen": "./img/perfumesD/09.jpeg",
         "descripcion":"35ml",
@@ -741,7 +741,7 @@
         "precio": 7999
     },
     {
-        "id": "perfume-10",
+        "id": "perfume-10-D",
         "titulo": "Mom Paris",
         "imagen": "./img/perfumesD/10.jpeg",
         "descripcion":"35ml",
@@ -752,7 +752,7 @@
         "precio": 7999
     },
     {
-        "id": "perfume-11",
+        "id": "perfume-11-D",
         "titulo": "Amor Amor Sunrise",
         "imagen": "./img/perfumesD/11.jpeg",
         "descripcion":"35ml",
@@ -874,7 +874,7 @@
     },
     
     {
-        "id": "billetera-1",
+        "id": "billetera-1-D",
         "titulo": "Fashion",
         "imagen": "./img/billeterasD/01.jpeg",
         "descripcion": "Billetera dama, Blanca",
@@ -885,7 +885,7 @@
         "precio": 12499
     },
     {
-        "id": "billetera-2",
+        "id": "billetera-2-D",
         "titulo": "Fashion",
         "imagen": "./img/billeterasD/02.jpeg",
         "descripcion": "Billetera dama, Negra",
