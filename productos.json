@@ -961,11 +961,11 @@
         },
         "precio": 9999
     },
-
     {
         "id": "smart-band-7",
         "titulo": "Smart Band M7",
         "imagen": "./img/electronica/02.jpeg",
+        "descripcion":"Reloj inteligente",
         "categoria": {
             "nombre": "Electronica",
             "id": "electronica"
