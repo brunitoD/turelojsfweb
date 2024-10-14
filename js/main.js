@@ -131,6 +131,7 @@ function agregarAlCarrito(e) {
     actualizarNumerito();
 
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
+    location.href = "carrito.html";//agregado por nuestra parte para que al agregar un producto redirija al carrito
 }
 
 function actualizarNumerito() {
