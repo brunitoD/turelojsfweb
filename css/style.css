@@ -423,11 +423,17 @@ main {
     }
 
     .open-menu, .close-menu {
+        display: flex;
         background-color: transparent;
         color: var(--clr-gray);
         border: 0;
-        font-size: 2rem;
+        font-size: 2.4rem;
         cursor: pointer;
+        margin-top: 15px;
+        align-items: center;
+    }
+    .p-menu{
+        font-size: 25px;
     }
 
     .close-menu {
@@ -458,6 +464,17 @@ main {
         max-height: 300px;
         object-fit: cover;
         border-radius: 1rem;
+    }
+    .ir-a-comprar{
+        font-size: 24px; 
+        color: #ffffff;
+        margin-top: 10px;
+    }
+    .bi-arrow-return-left{
+        font-size: 15px !important;
+    }
+    .seguir-comprando{
+        font-size: 22px;
     }
 }
 
