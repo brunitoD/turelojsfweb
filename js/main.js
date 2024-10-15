@@ -4,7 +4,7 @@ fetch("productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
-        cargarProductos(productos);
+        cargarProductos(productos);//llamamos al metodo para cargar los productos
     })  .catch(error => {
         console.error('Error:', error); // Maneja cualquier error
       });
@@ -21,7 +21,7 @@ botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
 }))
 
 
-function cargarProductos(productosElegidos) {
+function cargarProductos(productosElegidos) {//se cargan los productos dinamicamente
 
     contenedorProductos.innerHTML = "";
 
