@@ -441,7 +441,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 18999
+        "precio": 19999
     },
     {
         "id": "perfume-2",
@@ -485,7 +485,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-6",
@@ -496,7 +496,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-7",
@@ -507,7 +507,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-8",
@@ -518,7 +518,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-9",
@@ -529,7 +529,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-10",
@@ -540,7 +540,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-11",
@@ -551,7 +551,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-12",
@@ -562,7 +562,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-13",
@@ -573,7 +573,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-14",
@@ -584,7 +584,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 21999
+        "precio": 18999
     },
     {
         "id": "perfume-15",
@@ -606,7 +606,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "perfume-17",
@@ -617,7 +617,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "perfume-18",
@@ -628,7 +628,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "perfume-19",
@@ -639,7 +639,7 @@
             "nombre": "PerfumesH",
             "id": "perfumesH"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "perfume-1-D",
@@ -661,7 +661,7 @@
             "nombre": "PerfumesD",
             "id": "perfumesD"
         },
-        "precio": 16999
+        "precio": 19999
     },
     {
         "id": "perfume-3-D",
@@ -694,7 +694,7 @@
             "nombre": "PerfumesD",
             "id": "perfumesD"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-6-D",
@@ -705,7 +705,7 @@
             "nombre": "PerfumesD",
             "id": "perfumesD"
         },
-        "precio": 16999
+        "precio": 18999
     },
     {
         "id": "perfume-7-D",
@@ -738,7 +738,7 @@
             "nombre": "PerfumesD",
             "id": "perfumesD"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "perfume-10-D",
@@ -749,7 +749,7 @@
             "nombre": "PerfumesD",
             "id": "perfumesD"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "perfume-11-D",
@@ -760,7 +760,7 @@
             "nombre": "PerfumesD",
             "id": "perfumesD"
         },
-        "precio": 7999
+        "precio": 9999
     },
     {
         "id": "billetera-3",
@@ -904,7 +904,7 @@
             "nombre": "Gorras",
             "id": "gorras"
         },
-        "precio": 9999
+        "precio": 11999
     },
     {
         "id": "gorra-2",
@@ -915,7 +915,7 @@
             "nombre": "Gorras",
             "id": "gorras"
         },
-        "precio": 9999
+        "precio": 11999
     },
     {
         "id": "gorra-3",
@@ -926,7 +926,7 @@
             "nombre": "Gorras",
             "id": "gorras"
         },
-        "precio": 9999
+        "precio": 11999
     },
     {
         "id": "gorra-4",
@@ -937,7 +937,7 @@
             "nombre": "Gorras",
             "id": "gorras"
         },
-        "precio": 9999
+        "precio": 11999
     },
     {
         "id": "gorra-5",
@@ -948,7 +948,7 @@
             "nombre": "Gorras",
             "id": "gorras"
         },
-        "precio": 9999
+        "precio": 11999
     },
     {
         "id": "gorra-6",
@@ -959,7 +959,7 @@
             "nombre": "Gorras",
             "id": "gorras"
         },
-        "precio": 9999
+        "precio": 11999
     },
     {
         "id": "smart-band-7",
