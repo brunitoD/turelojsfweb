@@ -6,7 +6,7 @@
         "imagen": "img/relojesH/01.jpeg",
         "descripcion": "Malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -138,7 +138,7 @@
         "imagen": "img/relojesH/18.jpeg",
         "descripcion": "Disco Rojo, Malla de Acero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 27999
@@ -216,7 +216,7 @@
         "imagen": "./img/relojesD/03.jpeg",
         "descripcion": "Rosa, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -438,7 +438,7 @@
         "imagen": "./img/perfumesH/01.jpeg",
         "descripcion": "100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 19999
@@ -647,7 +647,7 @@
         "imagen": "./img/perfumesD/01.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 21999
@@ -768,7 +768,7 @@
         "imagen": "./img/billeterasH/03.jpeg",
         "descripcion":"Billetera Lacoste Negra",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 12499
@@ -879,7 +879,7 @@
         "imagen": "./img/billeterasD/01.jpeg",
         "descripcion": "Billetera dama, Blanca",
         "categoria": {
-            "nombre": "BilleterasD",
+            "nombre": "Billeteras Damas",
             "id": "billeterasD"
         },
         "precio": 12499
