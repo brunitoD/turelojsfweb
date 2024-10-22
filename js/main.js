@@ -1,88 +1,3 @@
-// let productos = [];
-// let contador = 0;
-// const cantidadPorCarga = 12; // Número de productos a cargar por vez
-// let categoriaActual = "todos"; // Establecer por defecto a "todos"
-
-// fetch("productos.json")
-//     .then(response => response.json())
-//     .then(data => {
-//         productos = data;
-//         cargarProductos(); // Cargar los primeros 12 productos al inicio
-//         observarUltimoElemento(); // Observar el último elemento
-//     })
-//     .catch(error => {
-//         console.error('Error:', error);
-//     });
-
-// const contenedorProductos = document.querySelector("#contenedor-productos");
-// const botonesCategorias = document.querySelectorAll(".boton-categoria");
-
-// botonesCategorias.forEach(boton => {
-//     boton.addEventListener("click", () => {
-//         categoriaActual = boton.id; // Cambiar esto para usar el id como categoría
-//         contador = 0; // Reiniciar contador al cambiar de categoría
-//         contenedorProductos.innerHTML = ""; // Limpiar productos anteriores
-//         cargarProductos(); // Cargar productos de la nueva categoría
-//         observarUltimoElemento(); // Observar el nuevo último elemento
-//     });
-// });
-
-// const cargarProductos = () => {
-//     const productosFiltrados = categoriaActual === "todos" ? productos : productos.filter(producto => producto.categoria === categoriaActual);
-    
-//     // Si no hay más productos para cargar, salir de la función
-//     if (contador >= productosFiltrados.length) {
-//         return;
-//     }
-
-//     const publicacionesAlCargar = productosFiltrados.slice(contador, contador + cantidadPorCarga);
-    
-//     publicacionesAlCargar.forEach(producto => {
-//         contenedorProductos.innerHTML += `
-//         <div class="producto">
-//             <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}">
-//             <div class="producto-detalles">
-//                 <h3 class="producto-titulo">${producto.titulo}</h3>
-//                 <p class="producto-precio">$${producto.precio}</p>
-//                 <button class="producto-agregar" id="${producto.id}">Agregar</button>
-//             </div>
-//         </div>
-//         `;
-//     });
-
-//     contador += publicacionesAlCargar.length; // Incrementar el contador
-
-//     // Si se han cargado todos los productos, mostrar el mensaje al final
-//     if (contador >= productosFiltrados.length) {
-//         contenedorProductos.innerHTML += `<h3 style="margin:40px; text-align:center; font-weight:700;">No hay más productos</h3>`;
-//         observer.disconnect(); // Dejar de observar si no hay más productos
-//     } else {
-//         observarUltimoElemento(); // Observar el nuevo último elemento
-//     }
-//     actualizarBotonesAgregar();
-// }
-
-// // Inicializar con los primeros 12 productos de "todos"
-// cargarProductos();
-
-// const cargarMasProductos = (entries) => {
-//     if (entries[0].isIntersecting) {
-//         cargarProductos(); // Cargar más productos si el último elemento es visible
-//     }
-// };
-
-// const observer = new IntersectionObserver(cargarMasProductos);
-
-// const observarUltimoElemento = () => {
-//     const publicacionElements = document.querySelectorAll(".producto");
-//     if (publicacionElements.length > 0) {
-//         const ultimoElemento = publicacionElements[publicacionElements.length - 1];
-//         observer.observe(ultimoElemento); // Observar el último elemento cargado
-//     }
-// };
-
-
-
 let productos = [];
 let contador = 0;
 const cantidadPorCarga = 12; // Número de productos a cargar por vez
@@ -102,18 +17,59 @@ fetch("productos.json")
 const contenedorProductos = document.querySelector("#contenedor-productos");
 const botonesCategorias = document.querySelectorAll(".boton-categoria");
 
+const tituloPrincipal = document.getElementById("tituloPrincipal");
+
 botonesCategorias.forEach(boton => {
     boton.addEventListener("click", () => {
-        categoriaActual = boton.getAttribute("data-categoria"); // Obtener la categoría del data-categoria
-        contador = 0; // Reiniciar contador al cambiar de categoría
-        contenedorProductos.innerHTML = ""; // Limpiar productos anteriores
-
+        categoriaActual = boton.getAttribute("data-categoria");
+        contador = 0;
+        contenedorProductos.innerHTML = "";
         window.scrollTo(0, 0);
 
-        cargarProductos(); // Cargar productos de la nueva categoría
-        observarUltimoElemento(); // Observar el nuevo último elemento
+        // Cambiar el título según la categoría seleccionada
+        switch (categoriaActual) {
+            case "todos":
+                tituloPrincipal.textContent = "Todos los productos";
+                break;
+            case "relojesH":
+                tituloPrincipal.textContent = "Relojes Hombre";
+                break;
+            case "relojesD":
+                tituloPrincipal.textContent = "Relojes Damas";
+                break;
+            case "estuches":
+                tituloPrincipal.textContent = "Estuches";
+                break;
+            case "pulseras":
+                tituloPrincipal.textContent = "Pulseras";
+                break;
+            case "perfumesH":
+                tituloPrincipal.textContent = "Perfumes Hombre";
+                break;
+            case "perfumesD":
+                tituloPrincipal.textContent = "Perfumes Damas";
+                break;
+            case "billeterasH":
+                tituloPrincipal.textContent = "Billeteras Hombre";
+                break;
+            case "billeterasD":
+                tituloPrincipal.textContent = "Billeteras Damas";
+                break;
+            case "gorras":
+                tituloPrincipal.textContent = "Gorras";
+                break;
+            case "electronica":
+                tituloPrincipal.textContent = "Electrónica";
+                break;
+            default:
+                tituloPrincipal.textContent = "Todos los productos";
+        }
+
+        cargarProductos();
+        observarUltimoElemento();
     });
 });
+
 
 const cargarProductos = () => {
     const productosFiltrados = categoriaActual === "todos" ? productos : productos.filter(producto => producto.categoria.id === categoriaActual);

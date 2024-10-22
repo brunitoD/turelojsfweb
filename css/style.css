@@ -154,9 +154,10 @@ main {
     padding: 3rem;
 }
 
-.titulo-principal {
+#tituloPrincipal {
     color: var(--clr-main);
     margin-bottom: 2rem;
+    
 }
 
 .contenedor-productos {
