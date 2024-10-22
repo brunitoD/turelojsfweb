@@ -17,7 +17,7 @@
         "imagen": "img/relojesH/02.jpeg",
         "descripcion": "Malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -28,7 +28,7 @@
         "imagen": "img/relojesH/05.jpeg",
         "descripcion": "Malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -39,7 +39,7 @@
         "imagen": "img/relojesH/06.jpeg",
         "descripcion": "Malla metalica",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 22999
@@ -50,7 +50,7 @@
         "descripcion": "Malla metalica, fondo negro",
         "imagen": "img/relojesH/07.jpeg",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 22999
@@ -61,7 +61,7 @@
         "imagen": "img/relojesH/08.jpeg",
         "descripcion": "Blanco, malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -72,7 +72,7 @@
         "imagen": "img/relojesH/09.jpeg",
         "descripcion": "Malla de Acero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 23999
@@ -83,7 +83,7 @@
         "imagen": "img/relojesH/11.jpeg",
         "descripcion": "Malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -94,7 +94,7 @@
         "imagen": "img/relojesH/12.jpeg",
         "descripcion": "Malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -105,7 +105,7 @@
         "imagen": "img/relojesH/15.jpeg",
         "descripcion": "Malla de Acero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 23999
@@ -116,7 +116,7 @@
         "imagen": "img/relojesH/16.jpeg",
         "descripcion": "Negro, Malla de Acero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 23999
@@ -127,7 +127,7 @@
         "imagen": "img/relojesH/17.jpeg",
         "descripcion": "Malla de Cuero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -149,7 +149,7 @@
         "imagen": "img/relojesH/19.jpeg",
         "descripcion": "Malla de Cuero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -160,7 +160,7 @@
         "imagen": "img/relojesH/20.jpeg",
         "descripcion": "Negro F.Blanco, Malla de Cuero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 21999
@@ -171,7 +171,7 @@
         "imagen": "img/relojesH/21.jpeg",
         "descripcion": "Malla de Cuero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 19999
@@ -182,7 +182,7 @@
         "imagen": "img/relojesH/22.jpeg",
         "descripcion": "Celeste, Malla de silicona",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 27999
@@ -193,7 +193,7 @@
         "imagen": "img/relojesH/23.jpeg",
         "descripcion": "Negro Completo, Malla de cuero",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 27999
@@ -204,7 +204,7 @@
         "imagen": "img/relojesH/24.jpeg",
         "descripcion": "Azul, Malla de cuero y cierre de abrojo",
         "categoria": {
-            "nombre": "Relojes",
+            "nombre": "Relojes Hombre",
             "id": "relojesH"
         },
         "precio": 27999
@@ -227,7 +227,7 @@
         "imagen": "./img/relojesD/04.jpeg",
         "descripcion": "Negro F.blanco, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -238,7 +238,7 @@
         "imagen": "./img/relojesD/05.jpeg",
         "descripcion": "Rosa claro, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -249,7 +249,7 @@
         "imagen": "./img/relojesD/06.jpeg",
         "descripcion": "Blanco, F.Floreado, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -260,7 +260,7 @@
         "imagen": "./img/relojesD/08.jpeg",
         "descripcion": "Rojo F.Blanco, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -271,7 +271,7 @@
         "imagen": "./img/relojesD/09.jpeg",
         "descripcion": "Beige, F.gatito, Malla de cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -282,7 +282,7 @@
         "imagen": "./img/relojesD/10.jpeg",
         "descripcion": "Celeste Claro, F.Flor, Malla Cuero Reforzada",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -293,7 +293,7 @@
         "imagen": "./img/relojesD/11.jpeg",
         "descripcion": "Negro, Malla cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -304,7 +304,7 @@
         "imagen": "./img/relojesD/12.jpeg",
         "descripcion": "Marron Claro, F.Estrella, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -315,7 +315,7 @@
         "imagen": "./img/relojesD/13.jpeg",
         "descripcion": "F.Blanco, Malla Metalica",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 19999
@@ -326,7 +326,7 @@
         "imagen": "./img/relojesD/14.jpeg",
         "descripcion": "Blanco, Malla de Cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -337,7 +337,7 @@
         "imagen": "./img/relojesD/15.jpeg",
         "descripcion": "Negro, Malla de cuero",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 16999
@@ -348,7 +348,7 @@
         "imagen": "./img/relojesD/16.jpeg",
         "descripcion": "Animal print, Malla de silicona",
         "categoria": {
-            "nombre": "relojesD",
+            "nombre": "Relojes Damas",
             "id": "relojesD"
         },
         "precio": 14999
@@ -449,7 +449,7 @@
         "imagen": "./img/perfumesH/02.jpeg",
         "descripcion": "100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 21999
@@ -460,7 +460,7 @@
         "imagen": "./img/perfumesH/03.jpeg",
         "descripcion": "100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 21999
@@ -471,7 +471,7 @@
         "imagen": "./img/perfumesH/04.jpeg",
         "descripcion":"Perfume Eros Versacce + Reloj a eleccion",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 32999
@@ -482,7 +482,7 @@
         "imagen": "./img/perfumesH/05.jpeg",
         "descripcion": "100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -493,7 +493,7 @@
         "imagen": "./img/perfumesH/06.jpeg",
         "descripcion": "100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -504,7 +504,7 @@
         "imagen": "./img/perfumesH/07.jpeg",
         "descripcion": "100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -515,7 +515,7 @@
         "imagen": "./img/perfumesH/08.jpeg",
         "descripcion":"90ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -526,7 +526,7 @@
         "imagen": "./img/perfumesH/09.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -537,7 +537,7 @@
         "imagen": "./img/perfumesH/10.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -548,7 +548,7 @@
         "imagen": "./img/perfumesH/11.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -559,7 +559,7 @@
         "imagen": "./img/perfumesH/12.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -570,7 +570,7 @@
         "imagen": "./img/perfumesH/13.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -581,7 +581,7 @@
         "imagen": "./img/perfumesH/14.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 18999
@@ -592,7 +592,7 @@
         "imagen": "./img/perfumesH/15.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 21999
@@ -603,7 +603,7 @@
         "imagen": "./img/perfumesH/16.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 9999
@@ -614,7 +614,7 @@
         "imagen": "./img/perfumesH/17.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 9999
@@ -625,7 +625,7 @@
         "imagen": "./img/perfumesH/18.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 9999
@@ -636,7 +636,7 @@
         "imagen": "./img/perfumesH/19.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesH",
+            "nombre": "Perfumes Hombre",
             "id": "perfumesH"
         },
         "precio": 9999
@@ -658,7 +658,7 @@
         "imagen": "./img/perfumesD/02.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 19999
@@ -669,7 +669,7 @@
         "imagen": "./img/perfumesD/03.jpeg",
         "descripcion":"Perfume de 100ml, + Reloj",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 32999
@@ -680,7 +680,7 @@
         "imagen": "./img/perfumesD/04.jpeg",
         "descripcion":"30ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 10999
@@ -691,7 +691,7 @@
         "imagen": "./img/perfumesD/05.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 18999
@@ -702,7 +702,7 @@
         "imagen": "./img/perfumesD/06.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 18999
@@ -713,7 +713,7 @@
         "imagen": "./img/perfumesD/07.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 24999
@@ -724,7 +724,7 @@
         "imagen": "./img/perfumesD/08.jpeg",
         "descripcion":"100ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 21999
@@ -735,7 +735,7 @@
         "imagen": "./img/perfumesD/09.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 9999
@@ -746,7 +746,7 @@
         "imagen": "./img/perfumesD/10.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 9999
@@ -757,7 +757,7 @@
         "imagen": "./img/perfumesD/11.jpeg",
         "descripcion":"35ml",
         "categoria": {
-            "nombre": "PerfumesD",
+            "nombre": "Perfumes Damas",
             "id": "perfumesD"
         },
         "precio": 9999
@@ -779,7 +779,7 @@
         "imagen": "./img/billeterasH/04.jpeg",
         "descripcion":"Billetera Tommy Hilfiger Negra",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 12499
@@ -790,7 +790,7 @@
         "imagen": "./img/billeterasH/05.jpeg",
         "descripcion":"Billetera Adidas Marron",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 12499
@@ -801,7 +801,7 @@
         "imagen": "./img/billeterasH/06.jpeg",
         "descripcion":"Billetera Puma Marron",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 12499
@@ -812,7 +812,7 @@
         "imagen": "./img/billeterasH/07.jpeg",
         "descripcion":"Billetera Daiqisi Negra",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 12499
@@ -823,7 +823,7 @@
         "imagen": "./img/billeterasH/08.jpeg",
         "descripcion":"Billetera Fashion Marron",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 9999
@@ -834,7 +834,7 @@
         "imagen": "./img/billeterasH/09.jpeg",
         "descripcion":"Billetera Fashion Negra",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 9999
@@ -845,7 +845,7 @@
         "imagen": "./img/billeterasH/10.jpeg",
         "descripcion":"",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 12499
@@ -856,7 +856,7 @@
         "imagen": "./img/billeterasH/01.jpeg",
         "descripcion":"Billetera Clubes (River)",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 9999
@@ -867,7 +867,7 @@
         "imagen": "./img/billeterasH/02.jpeg",
         "descripcion":"Billetera Clubes (Boca)",
         "categoria": {
-            "nombre": "BilleterasH",
+            "nombre": "Billeteras Hombre",
             "id": "billeterasH"
         },
         "precio": 9999
@@ -890,7 +890,7 @@
         "imagen": "./img/billeterasD/02.jpeg",
         "descripcion": "Billetera dama, Negra",
         "categoria": {
-            "nombre": "BilleterasD",
+            "nombre": "Billeteras Damas",
             "id": "billeterasD"
         },
         "precio": 12499
